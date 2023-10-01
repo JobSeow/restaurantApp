@@ -1,6 +1,9 @@
 spring:
+  sql:
+    init:
+      mode: always
   datasource:
-    url: jdbc:h2:mem:mydb;DB_CLOSE_DELAY=-1
+    url: jdbc:h2:mem:mydb;DB_CLOSE_DELAY=1;
     username: sa
     password: password
     driverClassName: org.h2.Driver
@@ -10,6 +13,6 @@ spring:
         database-platform: org.hibernate.dialect.H2Dialect
         defer-datasource-initialization: true
         hibernate:
-          ddl-auto: create
+          ddl-auto: none
   h2:
     console.enabled: true
