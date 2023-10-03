@@ -34,6 +34,9 @@ public class RestaurantService {
     }
     public String suggestRandom(){
         List<Restaurant> existingList =  restaurantRepository.findAll();
+        if (existingList.isEmpty()){
+            return "No Restaurants submitted";
+        }
         Random randomizer = new Random();
         Restaurant randomRestaurant =  existingList.get(randomizer.nextInt(existingList.size()));
         return randomRestaurant.getName();
