@@ -1,4 +1,4 @@
-package com.example.restaurantApp.entity;
+package com.example.restaurantApp.common.entity;
 
 
 
