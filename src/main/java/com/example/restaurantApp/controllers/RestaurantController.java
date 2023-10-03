@@ -17,7 +17,7 @@ public class RestaurantController {
 
     @PostMapping(value = "/submit/{restaurantName}")
     public String submit(@PathVariable String restaurantName) {
-        //test
+        //testing
         return restaurantService.processSuggestion(restaurantName);
     }
 
