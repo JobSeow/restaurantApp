@@ -1,8 +1,9 @@
 # RestaurantApp 
 
+URL for Deployed Application: https://jobseow.github.io/restaurant_web/
+
 Github URL for React Frontend Code: https://github.com/JobSeow/restaurant_web
 
-URL for Deployed Application: https://jobseow.github.io/restaurant_web/
 
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/b82b6168-c434-4e8a-9d34-b5c5b49d8aaf)
 
