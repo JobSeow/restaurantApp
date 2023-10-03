@@ -15,11 +15,6 @@
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/97193140-6959-4319-a121-8d87c70455a0)
 
 
-### File Structure:
-
-![image](https://github.com/JobSeow/restaurantApp/assets/46678618/a9c8a7e9-5fd4-43cc-9901-6f89e42a31b0)
-
-
 
 # Continuous Deployment
 
@@ -30,6 +25,12 @@
 
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/00334594-66c1-49f9-8c23-2c2695a26d6a)
 
+
+### File Structure:
+
+![image](https://github.com/JobSeow/restaurantApp/assets/46678618/a9c8a7e9-5fd4-43cc-9901-6f89e42a31b0)
+
+### DB - In MEM DB
 
 # Running Locally:
 Clone Repository
