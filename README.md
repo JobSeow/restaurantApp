@@ -1,8 +1,8 @@
 # RestaurantApp 
 
-URL for Deployed Application: https://jobseow.github.io/restaurant_web/
+## URL for Deployed Application: https://jobseow.github.io/restaurant_web/
 
-Github URL for React Frontend Code: https://github.com/JobSeow/restaurant_web
+##  Github URL for React Frontend Code: https://github.com/JobSeow/restaurant_web
 
 
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/b82b6168-c434-4e8a-9d34-b5c5b49d8aaf)
@@ -10,12 +10,12 @@ Github URL for React Frontend Code: https://github.com/JobSeow/restaurant_web
 
 
 
-URL for Swagger Documentation of API Endpoints: https://shielded-castle-99513-f00ce1ea9634.herokuapp.com/swagger-ui/index.html#/restaurant-controller/
+## URL for Swagger Documentation of API Endpoints: https://shielded-castle-99513-f00ce1ea9634.herokuapp.com/swagger-ui/index.html#/restaurant-controller/
 
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/97193140-6959-4319-a121-8d87c70455a0)
 
 
-File Structure:
+### File Structure:
 
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/a9c8a7e9-5fd4-43cc-9901-6f89e42a31b0)
 
