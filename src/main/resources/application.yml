@@ -16,3 +16,7 @@ spring:
           ddl-auto: none
   h2:
     console.enabled: true
+
+java:
+  runtime:
+    version: 11
