@@ -32,7 +32,10 @@
 
 ### DB:
 
-In MEM DB
+In-MEM H2 DB (Locally Accessible, Password in application.yml)
+
+![image](https://github.com/JobSeow/restaurantApp/assets/46678618/881e03f4-df25-4dfe-b6b6-2ec208a59c38)
+
 
 # Running Locally:
 Clone Repository
