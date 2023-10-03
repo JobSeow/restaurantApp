@@ -30,7 +30,9 @@
 
 ![image](https://github.com/JobSeow/restaurantApp/assets/46678618/a9c8a7e9-5fd4-43cc-9901-6f89e42a31b0)
 
-### DB - In MEM DB
+### DB:
+
+In MEM DB
 
 # Running Locally:
 Clone Repository
